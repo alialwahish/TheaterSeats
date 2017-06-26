@@ -1,8 +1,5 @@
 // Ali Bayati
 // File: Theatre Seating.cpp 
-// Project: 1
-// Class: CIS 2541 - Fall 2016
-// Date: Ocotober 15, 2016
 
 #include<iostream>
 #include<fstream>
